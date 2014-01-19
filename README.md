@@ -1,4 +1,4 @@
 irc_bot
 =======
 
-IRC bot
+IRC bot created in 2002
